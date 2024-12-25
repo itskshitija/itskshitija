@@ -1,6 +1,4 @@
-# 💫 About Me:
-I am Kshitija Chilbule, a passionate Data Analyst from India!
-
+# I am Kshitija Chilbule, a passionate Data Analyst from India!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitija-chilbule-b98515309/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kshitijachilbule2) 
