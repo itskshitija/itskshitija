@@ -1,4 +1,4 @@
-# Hi,👋 I am Kshitija Chilbule, a passionate Data Scientist from India!
+# Hi,👋 I am Kshitija Chilbule, a passionate Data Scientist!
 
 # 👧About Me
 - 💻 Data Scientist / Data Analyst
@@ -9,3 +9,4 @@
 - 🐙 GitHub: [GitHub](https://github.com/itskshitija)
 - 👩‍💻 HackerRank: [HackerRank Profile](https://www.hackerrank.com/profile/kshitijachilbul7)
 - 🐠 Kaggle: [Kaggle Profile](https://www.kaggle.com/kshitijachilbule22/competitions)
+
