@@ -1,5 +1,6 @@
-# Hi,👋 I am Kshitija!
+<img src="https://github.com/user-attachments/assets/6109a9ea-8d2c-4985-86f5-9d8f1a07a353" width="900" height="250" alt="Image description">
 
+# Hi,👋 I am Kshitija!
 # 👧About Me
 ## 🚀 I am a Computer Science Engineer passionate about Data Science and Data Analytics!
 <br>
