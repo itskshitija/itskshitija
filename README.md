@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6109a9ea-8d2c-4985-86f5-9d8f1a07a353" width="900" height="250" alt="Image description">
+<img src="https://github.com/user-attachments/assets/6109a9ea-8d2c-4985-86f5-9d8f1a07a353" width="900" height="350" alt="Image description">
 
 # Hi,👋 I am Kshitija!
 # 👧About Me
