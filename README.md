@@ -5,7 +5,6 @@
 - 🌍 Location: Mumbai, Maharashtra, India
 - ✉️ Email: kshitijachilbule5@gmail.com
 - 📱 Phone: +91-7620424864
-- 🌐 Portfolio: [Portfolio](https://github.com/itskshitija/Data-Science-Portfolio)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kshitija-chilbule-b98515309/)
 - 👩‍💻 HackerRank: [HackerRank Profile](https://www.hackerrank.com/profile/kshitijachilbul7)
 - 🐠 Kaggle: [Kaggle Profile](https://www.kaggle.com/kshitijachilbule22/competitions)
