@@ -13,7 +13,7 @@
 <br>
 👉<b>Frameworks & Libraries:</b> Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow, PyTorch
 <br>
-👉<b>Tools:</b> AWS, Docker, Git, StreamLit, Flask
+👉<b>Tools:</b> PowerBI, MySQL Workbench, AWS, Docker, Git, StreamLit, Flask
 <br>
 👉<b>Specialties:</b> Time Series, LLMs, NLP, Data Analysis
 
