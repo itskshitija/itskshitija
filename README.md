@@ -1,7 +1,7 @@
 # Hi,👋 I am Kshitija!
 ## 👧About Me
 ### 🚀 I am a Computer Science Engineer passionate about Software Development 
-- 💻 Software Developer | Java Full Stack Developer| Backend Developmer
+- 💻 Software Developer | Java Full Stack Developer| Backend Developer
 - 🌍 Location: Mumbai, Maharashtra, India 
 - ✉️ Email: kshitijachilbule5@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kshitija-chilbule-b98515309/)
